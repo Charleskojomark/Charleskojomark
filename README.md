@@ -6,8 +6,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347082367382)
 [![Waitlist](https://img.shields.io/badge/3D_AI_Waitlist-Join_Closed_Beta-150F0B?style=for-the-badge&logo=three.js&logoColor=white)](https://charlesmark.tech/waitlist)
 
-> **Business Solutions Architect & Applied AI Systems Engineer**  
-> *Bridging high-throughput backend services, cloud DevOps infrastructure, and autonomous agentic AI workflows that eliminate operational bottlenecks and scale business revenue.*
+> **AI Systems, Workflow Automation & Forward Deployed Engineer**  
+> *I engineer AI automations, agentic systems, and cloud backends that eliminate operational bottlenecks and scale business revenue. Bridging automated n8n pipelines, resilient backend infrastructure, cloud DevOps, and production agentic AI systems. Trained by FAANG engineers.*
 
 ---
 
